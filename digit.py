@@ -219,3 +219,7 @@ else:
   files.download(anim_file)
 
 '''
+
+# save model
+
+generator.save('saved_model/my_model') 
